@@ -1,0 +1,3 @@
+./dataset/scraped_trial2\astronom-temukan-gas-raksasa-mengorbit-pada-sistem-tiga-bintang.json
+./dataset/scraped_trial2\pioneer-astronom-tutup-usia.json
+./dataset/scraped_trial2\video-ketika-peluru-kaliber-50-menembus-iphone-6s.json
