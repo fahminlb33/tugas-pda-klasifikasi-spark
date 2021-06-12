@@ -27,5 +27,3 @@ Ikuti petunjuk pada Jupyter Notebook untuk melakukan *modelling*!
 
 Saya menggunakan *absolute path* untuk menyimpan hasil *scrapping* dan dataset.
 Harap cek terlebih dahulu *script*-nya sebelum dieksekusi.
-
-Versi spark: 
